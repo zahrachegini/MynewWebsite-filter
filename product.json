@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "category":"course",
+      "title": "محصول اول",
+      "type": "ویدئو",
+      "price": 45,
+      "image": "/MynewWebsite/image/01-min.jpg"
+    },
+    {
+      "id": 2,
+      "category": "code",
+      "title": "محصول دوم",
+      "type": "ویدئو",
+      "price": 47,
+      "image": "/MynewWebsite/image/02-min.jpg"
+    },
+    {
+      "id": 3,
+      "category": "course",
+      "title": "محصول سوم",
+      "type": "مقاله",
+      "price": 96,
+      "image": "/MynewWebsite/image/03-min.jpg"
+    },
+    {
+      "id": 4,
+      "category": "code",
+      "title": "محصول چهارم",
+      "type": "ویدئو",
+      "price": 52,
+      "image": "/MynewWebsite/image/04-min.jpg"
+    },
+    {
+      "id": 5,
+      "category": "article",
+      "title": "محصول پنجم",
+      "type": "ویدئو",
+      "price": 45,
+      "image": "/MynewWebsite/image/05-min.png"
+    },
+    {
+      "id": 6,
+      "category": "course",
+      "title": "محصول ششم",
+      "type": "مقاله",
+      "price": 63,
+      "image": "/MynewWebsite/image/06-min.jpg"
+    },
+    {
+      "id": 7,
+      "category": "article",
+      "title": "محصول هفتم",
+      "type": "ویدئو",
+      "price": 35,
+      "image": "/MynewWebsite/image/07-min.jpg"
+    },
+    {
+      "id": 8,
+      "category": "article",
+      "title": "محصول هشتم",
+      "type": "مقاله",
+      "price": 40,
+      "image": "/MynewWebsite/image/08-min.jpg"
+    }
+  ]
+}
+
